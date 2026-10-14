@@ -79,7 +79,7 @@ A mission's total cap is additional to daily and lifetime controls. Settled cost
 
 Enabled capability families determine both the instructions agents receive and the operations they may execute. Capability availability does not waive approval. Research documents can attach claims to immutable source receipts; uncited claims must be marked inference or hypothesis. Citation records establish provenance, not truth or complete coverage of unstructured prose.
 
-The Missions page retains prior objectives, recorded spend, acceptance evidence and exact deliverable versions. See [mission setup and operation](docs/MISSIONS.md) and [verification results and prompt measurements](docs/VERIFICATION.md).
+The Missions page retains prior objectives, recorded spend, acceptance evidence and exact deliverable versions. See [mission setup and operation](docs/MISSIONS.md).
 
 ## Optional integrations
 
@@ -99,6 +99,6 @@ npm test
 
 Tests use isolated data and mock providers. The Docker sandbox test is opt-in. Passing tests do not demonstrate provider reachability, profitability, or resistance to every malicious prompt.
 
-The initial public candidate has not been published or tagged. See [release checklist](docs/RELEASING.md), [contribution policy](CONTRIBUTING.md), and [changelog](CHANGELOG.md).
+See the [changelog](CHANGELOG.md) for release history.
 
 Licensed under [GNU AGPL version 3](LICENSE), SPDX `AGPL-3.0-only`. This permits commercial use and redistribution under its terms; modified network deployments have source-offer obligations. Internal package names currently retain the `@hive/*` namespace for compatibility.

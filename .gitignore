@@ -43,3 +43,10 @@ __pycache__/
 *.sqlite3
 *.sqlite-wal
 *.exe
+
+# Local development notes
+/AGENTS.md
+/BACKLOG.md
+/CONTRIBUTING.md
+/docs/VERIFICATION.md
+/docs/RELEASING.md
